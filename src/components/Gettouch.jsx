@@ -26,11 +26,8 @@ const GetTouch = () => {
 
   return (
     <div className="contact-form-container">
-<<<<<<< HEAD
+
       <h1 className='get'>Get in touch</h1>
-=======
-      <h1 classname="get1">Get in touch</h1>
->>>>>>> cfb39d1b03bbb838afc426cecae95d4e18993f73
       <p className="description">
       "Reach out to us for legal assistance. Fill out the form below with your contact details and message, and our team will respond promptly."
       </p>
